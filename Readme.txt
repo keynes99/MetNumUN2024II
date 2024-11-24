@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1ibTZlAZylM9DP600aBjGx6mzngmSgKeJ Quiz #0
+https://colab.research.google.com/drive/1ibTZlAZylM9DP600aBjGx6mzngmSgKeJ lab2
